@@ -6,3 +6,4 @@
 # conflict test
 hirose-yu
 suga-ki
+araki-ka
